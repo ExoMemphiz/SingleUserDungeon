@@ -1,0 +1,76 @@
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\ActionController.java:25:	Avoid variables with short names like rc
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\ActionController.java:27:	Avoid variables with short names like rc
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\ActionController.java:38:	Avoid variables with short names like s
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\ActionController.java:308:	Avoid variables with short names like p
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\ActionController.java:309:	Avoid variables with short names like w
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\ActionController.java:310:	Avoid variables with short names like m
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\ActionController.java:407:	Avoid variables with short names like s
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:38:	Avoid variables with short names like ac
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:48:	Avoid variables with short names like x
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:48:	Avoid variables with short names like y
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:74:	Avoid variables with short names like r
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:139:	Avoid variables with short names like x
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:139:	Avoid variables with short names like y
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:168:	Avoid variables with short names like s
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:217:	Avoid variables with short names like s
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:229:	Avoid variables with short names like i
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:234:	Avoid variables with short names like s
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:259:	Avoid variables with short names like r
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:265:	Avoid variables with short names like r
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:271:	Avoid variables with short names like r
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:277:	Avoid variables with short names like r
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:291:	Avoid variables with short names like s
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Item.java:6:	Avoid short class names like Item
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Item.java:59:	Avoid variables with short names like p
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\ItemGenerator.java:7:	The utility class name 'ItemGenerator' doesn't match '[A-Z][a-zA-Z0-9]+(Utils?|Helper)'
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\ItemGenerator.java:17:	The static method name 'GenerateRandomItem' doesn't match '[a-z][a-zA-Z0-9]*'
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\MonsterGenerator.java:7:	The utility class name 'MonsterGenerator' doesn't match '[A-Z][a-zA-Z0-9]+(Utils?|Helper)'
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\MonsterGenerator.java:19:	The static method name 'GenerateRandomMonster' doesn't match '[a-z][a-zA-Z0-9]*'
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\MonsterGenerator.java:24:	Avoid variables with short names like hp
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Player.java:139:	Avoid variables with short names like s
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Player.java:156:	Avoid variables with short names like s
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Player.java:277:	Avoid variables with short names like x
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Player.java:286:	Avoid variables with short names like x
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Room.java:13:	Avoid short class names like Room
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Room.java:19:	Avoid variables with short names like x
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Room.java:19:	Avoid variables with short names like y
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Room.java:23:	Avoid excessively long variable names like directionDescription
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Room.java:25:	Avoid variables with short names like x
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Room.java:25:	Avoid variables with short names like y
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Room.java:50:	Avoid variables with short names like p
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Room.java:50:	Avoid variables with short names like rc
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Room.java:55:	Avoid variables with short names like s
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Room.java:67:	Avoid variables with short names like p
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Room.java:67:	Avoid variables with short names like rc
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Room.java:69:	Avoid variables with short names like s
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Room.java:110:	Avoid variables with short names like s
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Room.java:144:	Avoid variables with short names like rc
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Room.java:146:	Avoid variables with short names like s
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Room.java:166:	Avoid variables with short names like s
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Room.java:227:	Avoid variables with short names like i
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\RoomObject.java:13:	Avoid variables with short names like r
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\RoomObject.java:27:	Avoid variables with short names like rc
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\RoomObject.java:29:	Avoid variables with short names like p
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\RoomObject.java:60:	Avoid variables with short names like i
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\RoomObject.java:63:	Avoid variables with short names like i2
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\RoomObjectGenerator.java:10:	The utility class name 'RoomObjectGenerator' doesn't match '[A-Z][a-zA-Z0-9]+(Utils?|Helper)'
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\RoomObjectGenerator.java:12:	Variables that are final and static should be all capitals, 'objects' is not all capitals.
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\RoomObjectGenerator.java:19:	The static method name 'GenerateRandomObject' doesn't match '[a-z][a-zA-Z0-9]*'
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\SaveLoadHandler.java:15:	The utility class name 'SaveLoadHandler' doesn't match '[A-Z][a-zA-Z0-9]+(Utils?|Helper)'
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\SaveLoadHandler.java:23:	Avoid variables with short names like rc
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\SaveLoadHandler.java:34:	Avoid variables with short names like f
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\SaveLoadHandler.java:34:	Avoid variables with short names like rc
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\SaveLoadHandler.java:66:	Avoid variables with short names like f
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\SaveLoadHandler.java:73:	Avoid variables with short names like o
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\WeaponGenerator.java:7:	The utility class name 'WeaponGenerator' doesn't match '[A-Z][a-zA-Z0-9]+(Utils?|Helper)'
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\WeaponGenerator.java:18:	The static method name 'GenerateRandomWeapon' doesn't match '[a-z][a-zA-Z0-9]*'
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\view\DifficultySelector.java:102:	Avoid variables with short names like x
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\view\DifficultySelector.java:103:	Avoid variables with short names like y
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\view\MainWindow.java:14:	Avoid variables with short names like rc
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\view\MainWindow.java:38:	Avoid variables with short names like s
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\view\MainWindow.java:76:	Avoid variables with short names like rc
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\view\MainWindow.java:265:	Avoid variables with short names like p
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\view\MainWindow.java:280:	Avoid variables with short names like s
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\view\MainWindow.java:364:	Avoid excessively long variable names like jProgressBarEnergy
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\view\MainWindow.java:365:	Avoid excessively long variable names like jProgressBarHealth
+D:\Software\Netbeans School Project\Single-User-Dungeon\test\model\PlayerTest.java:23:	Avoid variables with short names like p

@@ -1,0 +1,3 @@
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\ActionController.java:123:	System.exit() should not be used in J2EE/JEE apps
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:316:	System.exit() should not be used in J2EE/JEE apps
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Player.java:94:	System.exit() should not be used in J2EE/JEE apps

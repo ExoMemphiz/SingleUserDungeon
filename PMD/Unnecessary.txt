@@ -1,0 +1,8 @@
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\ActionController.java:42:	Useless parentheses.
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\ActionController.java:292:	Useless parentheses.
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\ActionController.java:410:	Useless parentheses.
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:122:	Useless parentheses.
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Room.java:90:	Useless parentheses.
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\RoomObject.java:62:	Useless parentheses.
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\RoomObject.java:64:	Useless parentheses.
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\RoomObject.java:72:	Useless parentheses.

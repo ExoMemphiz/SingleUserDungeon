@@ -1,0 +1,6 @@
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\ActionController.java:7:	Avoid unused imports such as 'model'
+D:\Software\Netbeans School Project\Single-User-Dungeon\test\model\PlayerTest.java:8:	Avoid unused imports such as 'java.util.ArrayList'
+D:\Software\Netbeans School Project\Single-User-Dungeon\test\model\PlayerTest.java:9:	Avoid unused imports such as 'org.junit.After'
+D:\Software\Netbeans School Project\Single-User-Dungeon\test\model\PlayerTest.java:10:	Avoid unused imports such as 'org.junit.AfterClass'
+D:\Software\Netbeans School Project\Single-User-Dungeon\test\model\PlayerTest.java:13:	Avoid unused imports such as 'org.junit.Assert'
+D:\Software\Netbeans School Project\Single-User-Dungeon\test\model\PlayerTest.java:14:	Avoid unused imports such as 'org.junit.Before'

@@ -1,0 +1,5 @@
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\view\DifficultySelector.java:101:	Avoid unused method parameters such as 'evt'.
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\view\DifficultySelector.java:108:	Avoid unused method parameters such as 'evt'.
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\view\MainWindow.java:261:	Avoid unused method parameters such as 'evt'.
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\view\MainWindow.java:279:	Avoid unused method parameters such as 'evt'.
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\view\MainWindow.java:307:	Avoid unused method parameters such as 'evt'.

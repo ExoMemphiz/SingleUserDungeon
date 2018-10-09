@@ -1,0 +1,10 @@
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\ActionController.java:42:	The String literal "use" appears 4 times in this file; the first occurrence is on line 42
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\ActionController.java:44:	The String literal "interact" appears 4 times in this file; the first occurrence is on line 44
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\ActionController.java:48:	The String literal "open" appears 4 times in this file; the first occurrence is on line 48
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\ActionController.java:52:	The String literal "buy" appears 4 times in this file; the first occurrence is on line 52
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\ActionController.java:56:	The String literal "sell" appears 4 times in this file; the first occurrence is on line 56
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\ActionController.java:376:	Using equalsIgnoreCase() is cleaner than using toUpperCase/toLowerCase().equals().
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:153:	The String literal "Potion" appears 6 times in this file; the first occurrence is on line 153
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:343:	Using equalsIgnoreCase() is cleaner than using toUpperCase/toLowerCase().equals().
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\view\DifficultySelector.java:39:	The String literal "Tahoma" appears 5 times in this file; the first occurrence is on line 39
+D:\Software\Netbeans School Project\Single-User-Dungeon\test\model\PlayerTest.java:55:	The String literal "TestItem" appears 4 times in this file; the first occurrence is on line 55

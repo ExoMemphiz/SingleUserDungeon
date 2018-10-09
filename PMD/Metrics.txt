@@ -1,0 +1,5 @@
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\ActionController.java:13:	The class 'ActionController' has a total cyclomatic complexity of 91 (highest 49).
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\ActionController.java:38:	The method 'processInput(String)' has a cyclomatic complexity of 49.
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\ActionController.java:286:	The method 'attack(int)' has a cyclomatic complexity of 12.
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:311:	The method 'nextTurn(MainWindow, boolean, String)' has a cyclomatic complexity of 10.
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\RoomObject.java:27:	The method 'interact(RoomController)' has a cyclomatic complexity of 11.

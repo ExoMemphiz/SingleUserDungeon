@@ -1,0 +1,240 @@
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\ActionController.java:27:	Parameter 'rc' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\ActionController.java:110:	Local variable 'playerName' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\ActionController.java:111:	Local variable 'newController' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\ActionController.java:177:	Local variable 'current' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\ActionController.java:178:	Local variable 'north' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\ActionController.java:200:	Local variable 'current' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\ActionController.java:201:	Local variable 'south' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\ActionController.java:221:	Local variable 'current' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\ActionController.java:222:	Local variable 'west' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\ActionController.java:242:	Local variable 'current' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\ActionController.java:243:	Local variable 'east' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\ActionController.java:286:	Parameter 'type' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\ActionController.java:292:	Local variable 'buff' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\ActionController.java:308:	Local variable 'p' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\ActionController.java:309:	Local variable 'w' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\ActionController.java:310:	Local variable 'm' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\ActionController.java:314:	Local variable 'rng' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\ActionController.java:315:	Local variable 'dropChance' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\ActionController.java:318:	Local variable 'weaponDropChance' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\ActionController.java:333:	Prefer StringBuilder (non-synchronized) or StringBuffer (synchronized) over += for concatenating strings
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\ActionController.java:337:	Prefer StringBuilder (non-synchronized) or StringBuffer (synchronized) over += for concatenating strings
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\ActionController.java:351:	Avoid declaring a variable if it is unreferenced before a possible exit point.
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\ActionController.java:352:	Local variable 'list' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\ActionController.java:357:	Local variable 'i' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\ActionController.java:361:	Prefer StringBuilder (non-synchronized) or StringBuffer (synchronized) over += for concatenating strings
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\ActionController.java:371:	Parameter 'itemName' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\ActionController.java:373:	Local variable 'items' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\ActionController.java:374:	Local variable 'i' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\ActionController.java:388:	Parameter 'objectName' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\ActionController.java:390:	Local variable 'objects' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\ActionController.java:391:	Local variable 'o' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\ActionController.java:408:	Local variable 'i' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\ActionController.java:410:	Local variable 'wepDmg' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\ActionController.java:411:	Prefer StringBuilder (non-synchronized) or StringBuffer (synchronized) over += for concatenating strings
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\MainClass.java:11:	Parameter 'args' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:48:	Parameter 'x' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:48:	Parameter 'y' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:68:	Parameter 'height' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:68:	Parameter 'monsterChance' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:68:	Parameter 'objectChance' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:68:	Parameter 'width' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:74:	Avoid instantiating new objects inside loops
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:74:	Local variable 'r' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:81:	Local variable 'tempObj' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:105:	Local variable 'rng' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:107:	Local variable 'tempRoom' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:120:	Local variable 'rng' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:121:	Local variable 'tempRoom' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:134:	Parameter 'command' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:139:	Parameter 'x' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:139:	Parameter 'y' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:141:	Local variable 'r' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:169:	Local variable 'i' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:176:	Prefer StringBuilder (non-synchronized) or StringBuffer (synchronized) over += for concatenating strings
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:181:	Parameter 'itemName' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:183:	Local variable 'tempItem' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:198:	Parameter 'itemName' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:200:	Local variable 'tempItem' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:208:	Local variable 'newPrice' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:217:	Parameter 's' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:219:	Local variable 'i' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:229:	Parameter 'i' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:234:	Parameter 's' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:238:	Local variable 'tempItem' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:252:	Parameter 'currentRoom' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:257:	Parameter 'currentRoom' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:259:	Local variable 'r' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:263:	Parameter 'currentRoom' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:265:	Local variable 'r' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:269:	Parameter 'currentRoom' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:271:	Local variable 'r' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:275:	Parameter 'currentRoom' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:277:	Local variable 'r' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:286:	Parameter 'dir' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:291:	Parameter 's' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:296:	Parameter 'buff' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:296:	Parameter 'turns' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:301:	Parameter 'buff' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:311:	Parameter 'gui' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:311:	Parameter 'increment' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:311:	Parameter 'latestCommand' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:339:	Local variable 'nonTurnWords' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:341:	Local variable 's' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:356:	Parameter 'buff' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:358:	Local variable 'buffs' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\control\RoomController.java:367:	Parameter 'latestMove' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Item.java:12:	Parameter 'description' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Item.java:12:	Parameter 'goldValue' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Item.java:12:	Parameter 'name' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Item.java:59:	Parameter 'p' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\ItemGenerator.java:19:	Local variable 'random' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\ItemGenerator.java:20:	Local variable 'name' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\ItemGenerator.java:21:	Local variable 'description' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\ItemGenerator.java:22:	Local variable 'value' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Monster.java:13:	Parameter 'currentHp' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Monster.java:13:	Parameter 'damage' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Monster.java:13:	Parameter 'description' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Monster.java:13:	Parameter 'maxHp' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Monster.java:13:	Parameter 'name' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Monster.java:47:	Parameter 'damage' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\MonsterGenerator.java:21:	Local variable 'random' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\MonsterGenerator.java:22:	Local variable 'name' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\MonsterGenerator.java:23:	Local variable 'description' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\MonsterGenerator.java:24:	Local variable 'hp' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\MonsterGenerator.java:25:	Local variable 'damage' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Player.java:68:	Local variable 'i' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Player.java:78:	Local variable 'endMessage' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Player.java:100:	Parameter 'name' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Player.java:124:	Local variable 'story' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Player.java:139:	Parameter 's' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Player.java:141:	Local variable 'i' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Player.java:156:	Parameter 's' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Player.java:158:	Local variable 'i' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Player.java:168:	Parameter 'amount' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Player.java:173:	Parameter 'amount' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Player.java:193:	Parameter 'damage' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Player.java:198:	Parameter 'damage' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Player.java:211:	Parameter 'name' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Player.java:213:	Local variable 'i' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Player.java:238:	Parameter 'gold' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Player.java:243:	Parameter 'gold' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Player.java:248:	Parameter 'item' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Player.java:260:	Local variable 'i' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Player.java:277:	Parameter 'x' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Player.java:286:	Parameter 'x' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Room.java:25:	Parameter 'x' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Room.java:25:	Parameter 'y' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Room.java:50:	Parameter 'command' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Room.java:50:	Parameter 'p' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Room.java:50:	Parameter 'rc' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Room.java:59:	Prefer StringBuilder (non-synchronized) or StringBuffer (synchronized) over += for concatenating strings
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Room.java:67:	Parameter 'command' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Room.java:67:	Parameter 'p' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Room.java:67:	Parameter 'rc' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Room.java:75:	Prefer StringBuilder (non-synchronized) or StringBuffer (synchronized) over += for concatenating strings
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Room.java:80:	Prefer StringBuilder (non-synchronized) or StringBuffer (synchronized) over += for concatenating strings
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Room.java:90:	Local variable 'buffActive' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Room.java:91:	Local variable 'damage' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Room.java:94:	Prefer StringBuilder (non-synchronized) or StringBuffer (synchronized) over += for concatenating strings
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Room.java:98:	Prefer StringBuilder (non-synchronized) or StringBuffer (synchronized) over += for concatenating strings
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Room.java:113:	Local variable 'o' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Room.java:115:	Prefer StringBuilder (non-synchronized) or StringBuffer (synchronized) over += for concatenating strings
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Room.java:120:	Local variable 'i' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Room.java:122:	Prefer StringBuilder (non-synchronized) or StringBuffer (synchronized) over += for concatenating strings
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Room.java:133:	Local variable 'flavorAr' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Room.java:134:	Local variable 'rng' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Room.java:144:	Parameter 'rc' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Room.java:149:	Prefer StringBuilder (non-synchronized) or StringBuffer (synchronized) over += for concatenating strings
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Room.java:153:	Prefer StringBuilder (non-synchronized) or StringBuffer (synchronized) over += for concatenating strings
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Room.java:157:	Prefer StringBuilder (non-synchronized) or StringBuffer (synchronized) over += for concatenating strings
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Room.java:161:	Prefer StringBuilder (non-synchronized) or StringBuffer (synchronized) over += for concatenating strings
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Room.java:166:	Parameter 's' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Room.java:168:	Local variable 'o' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Room.java:178:	Parameter 'object' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Room.java:183:	Parameter 'item' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Room.java:188:	Parameter 'monster' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Room.java:227:	Parameter 'i' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Room.java:232:	Parameter 'name' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Room.java:234:	Local variable 'cloned' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Room.java:235:	Local variable 'o' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\RoomObject.java:15:	Parameter 'description' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\RoomObject.java:15:	Parameter 'name' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\RoomObject.java:27:	Parameter 'rc' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\RoomObject.java:29:	Local variable 'p' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\RoomObject.java:63:	Local variable 'i2' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\RoomObject.java:64:	Local variable 'i2Text' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\RoomObject.java:87:	Parameter 'name' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\RoomObject.java:97:	Parameter 'description' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\RoomObjectGenerator.java:25:	Local variable 'random' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\RoomObjectGenerator.java:26:	Local variable 'randNum' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\RoomObjectGenerator.java:27:	Local variable 'name' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\RoomObjectGenerator.java:28:	Local variable 'description' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\SaveLoadHandler.java:23:	Parameter 'rc' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\SaveLoadHandler.java:34:	Parameter 'f' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\SaveLoadHandler.java:34:	Parameter 'rc' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\SaveLoadHandler.java:38:	Local variable 'savePath' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\SaveLoadHandler.java:47:	Local variable 'fos' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\SaveLoadHandler.java:66:	Local variable 'f' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\SaveLoadHandler.java:71:	Local variable 'fis' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\SaveLoadHandler.java:72:	Local variable 'ois' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\SaveLoadHandler.java:73:	Local variable 'o' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\SaveLoadHandler.java:74:	Local variable 'newRc' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Weapon.java:14:	Parameter 'damage' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Weapon.java:14:	Parameter 'description' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Weapon.java:14:	Parameter 'goldValue' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Weapon.java:14:	Parameter 'name' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\Weapon.java:20:	Parameter 'amount' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\WeaponGenerator.java:20:	Local variable 'random' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\WeaponGenerator.java:21:	Local variable 'name' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\WeaponGenerator.java:22:	Local variable 'description' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\WeaponGenerator.java:23:	Local variable 'value' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\model\WeaponGenerator.java:24:	Local variable 'damage' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\view\DifficultySelector.java:81:	Parameter 'evt' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\view\DifficultySelector.java:89:	Parameter 'evt' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\view\DifficultySelector.java:101:	Parameter 'evt' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\view\DifficultySelector.java:102:	Local variable 'x' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\view\DifficultySelector.java:103:	Local variable 'y' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\view\DifficultySelector.java:108:	Parameter 'evt' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\view\DifficultySelector.java:109:	Local variable 'playerName' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\view\DifficultySelector.java:115:	Local variable 'newController' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\view\MainWindow.java:14:	Parameter 'rc' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\view\MainWindow.java:38:	Parameter 'append' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\view\MainWindow.java:38:	Parameter 's' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\view\MainWindow.java:60:	Local variable 'maxHp' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\view\MainWindow.java:61:	Local variable 'currentHp' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\view\MainWindow.java:62:	Local variable 'maxEnergy' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\view\MainWindow.java:63:	Local variable 'currentEnergy' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\view\MainWindow.java:64:	Do not add empty strings
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\view\MainWindow.java:76:	Parameter 'rc' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\view\MainWindow.java:124:	Parameter 'evt' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\view\MainWindow.java:144:	Parameter 'evt' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\view\MainWindow.java:151:	Parameter 'evt' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\view\MainWindow.java:177:	Parameter 'evt' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\view\MainWindow.java:191:	Local variable 'jPanelMainLayout' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\view\MainWindow.java:244:	Local variable 'layout' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\view\MainWindow.java:261:	Parameter 'evt' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\view\MainWindow.java:265:	Local variable 'p' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\view\MainWindow.java:279:	Parameter 'evt' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\view\MainWindow.java:280:	Local variable 's' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\view\MainWindow.java:282:	Local variable 'latest' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\view\MainWindow.java:299:	Parameter 'evt' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\view\MainWindow.java:307:	Parameter 'evt' is not assigned and could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\view\MainWindow.java:308:	Local variable 'line' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\view\MainWindow.java:310:	Local variable 'strAr' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\view\MainWindow.java:311:	Local variable 'split' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\view\MainWindow.java:312:	Local variable 's' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\view\MainWindow.java:320:	Local variable 's' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\src\view\MainWindow.java:322:	Prefer StringBuilder (non-synchronized) or StringBuffer (synchronized) over += for concatenating strings
+D:\Software\Netbeans School Project\Single-User-Dungeon\test\model\PlayerTest.java:54:	Local variable 'expResult' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\test\model\PlayerTest.java:56:	Local variable 'result' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\test\model\PlayerTest.java:67:	Local variable 'expResult' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\test\model\PlayerTest.java:69:	Local variable 'result' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\test\model\PlayerTest.java:80:	Local variable 'amount' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\test\model\PlayerTest.java:81:	Local variable 'previous' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\test\model\PlayerTest.java:93:	Local variable 'damage' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\test\model\PlayerTest.java:105:	Local variable 'name' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\test\model\PlayerTest.java:118:	Local variable 'wep1' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\test\model\PlayerTest.java:119:	Local variable 'wep2' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\test\model\PlayerTest.java:122:	Local variable 'expResult' could be declared final
+D:\Software\Netbeans School Project\Single-User-Dungeon\test\model\PlayerTest.java:123:	Local variable 'result' could be declared final
